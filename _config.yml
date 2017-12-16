@@ -1,2 +1,3 @@
-theme: jekyll-theme-cayman
+remote-theme: daattali/beautiful-jekyll
 title: Dan's scattered thoughts
+description: R and Python bits
